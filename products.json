@@ -1,0 +1,398 @@
+[
+  {
+    "id": "1",
+    "title": "Wireless Headphones",
+    "price": 99.99,
+    "brand": "AudioX"
+  },
+  {
+    "id": "2",
+    "title": "Smartphone 12 Pro",
+    "price": 899.99,
+    "brand": "TechGear"
+  },
+  {
+    "id": "3",
+    "title": "Laptop 15.6 inch",
+    "price": 1199.99,
+    "brand": "CompuPro"
+  },
+  {
+    "id": "4",
+    "title": "4K LED TV",
+    "price": 699.99,
+    "brand": "VisionMax"
+  },
+  {
+    "id": "5",
+    "title": "Bluetooth Speaker",
+    "price": 49.99,
+    "brand": "SoundBliss"
+  },
+  {
+    "id": "6",
+    "title": "Gaming Console",
+    "price": 499.99,
+    "brand": "GameHub"
+  },
+  {
+    "id": "7",
+    "title": "Smart Watch",
+    "price": 199.99,
+    "brand": "WristTech"
+  },
+  {
+    "id": "8",
+    "title": "Portable Charger",
+    "price": 29.99,
+    "brand": "PowerX"
+  },
+  {
+    "id": "9",
+    "title": "Digital Camera",
+    "price": 549.99,
+    "brand": "PixelSnap"
+  },
+  {
+    "id": "10",
+    "title": "Noise Cancelling Earbuds",
+    "price": 149.99,
+    "brand": "ClearSound"
+  },
+  {
+    "id": "11",
+    "title": "Smart Thermostat",
+    "price": 179.99,
+    "brand": "ClimateControl"
+  },
+  {
+    "id": "12",
+    "title": "Robot Vacuum",
+    "price": 299.99,
+    "brand": "HomeBot"
+  },
+  {
+    "id": "13",
+    "title": "Tablet 10.1 inch",
+    "price": 399.99,
+    "brand": "TechGear"
+  },
+  {
+    "id": "14",
+    "title": "Fitness Tracker",
+    "price": 59.99,
+    "brand": "FitPulse"
+  },
+  {
+    "id": "15",
+    "title": "Wireless Mouse",
+    "price": 24.99,
+    "brand": "ClickMaster"
+  },
+  {
+    "id": "16",
+    "title": "Mechanical Keyboard",
+    "price": 89.99,
+    "brand": "TypePro"
+  },
+  {
+    "id": "17",
+    "title": "Smart Light Bulbs",
+    "price": 39.99,
+    "brand": "BrightTech"
+  },
+  {
+    "id": "18",
+    "title": "External Hard Drive 1TB",
+    "price": 79.99,
+    "brand": "DataSafe"
+  },
+  {
+    "id": "19",
+    "title": "Action Camera",
+    "price": 299.99,
+    "brand": "AdventureCam"
+  },
+  {
+    "id": "20",
+    "title": "Electric Toothbrush",
+    "price": 49.99,
+    "brand": "BrightSmile"
+  },
+  {
+    "id": "21",
+    "title": "Waterproof Smartwatch",
+    "price": 149.99,
+    "brand": "AquaWear"
+  },
+  {
+    "id": "22",
+    "title": "Streaming Stick",
+    "price": 39.99,
+    "brand": "StreamX"
+  },
+  {
+    "id": "23",
+    "title": "Wireless Charging Pad",
+    "price": 19.99,
+    "brand": "PowerMat"
+  },
+  {
+    "id": "24",
+    "title": "Smart Doorbell",
+    "price": 99.99,
+    "brand": "SafeHome"
+  },
+  {
+    "id": "25",
+    "title": "Gaming Mouse",
+    "price": 59.99,
+    "brand": "GamePro"
+  },
+  {
+    "id": "26",
+    "title": "4TB External Drive",
+    "price": 129.99,
+    "brand": "StorageKing"
+  },
+  {
+    "id": "27",
+    "title": "Electric Kettle",
+    "price": 29.99,
+    "brand": "HeatWave"
+  },
+  {
+    "id": "28",
+    "title": "Air Purifier",
+    "price": 199.99,
+    "brand": "CleanAir"
+  },
+  {
+    "id": "29",
+    "title": "Espresso Machine",
+    "price": 249.99,
+    "brand": "BrewMaster"
+  },
+  {
+    "id": "30",
+    "title": "Home Security Camera",
+    "price": 149.99,
+    "brand": "SafeGuard"
+  },
+  {
+    "id": "31",
+    "title": "Portable Bluetooth Projector",
+    "price": 349.99,
+    "brand": "ProjX"
+  },
+  {
+    "id": "32",
+    "title": "Smart Scale",
+    "price": 49.99,
+    "brand": "WeightWatch"
+  },
+  {
+    "id": "33",
+    "title": "Electric Scooter",
+    "price": 499.99,
+    "brand": "EcoRide"
+  },
+  {
+    "id": "34",
+    "title": "Induction Cooktop",
+    "price": 149.99,
+    "brand": "ChefTech"
+  },
+  {
+    "id": "35",
+    "title": "Smart Air Conditioner",
+    "price": 399.99,
+    "brand": "CoolBreeze"
+  },
+  {
+    "id": "36",
+    "title": "Electric Bike",
+    "price": 1299.99,
+    "brand": "UrbanRide"
+  },
+  {
+    "id": "37",
+    "title": "Wireless Security System",
+    "price": 199.99,
+    "brand": "SafeGuard"
+  },
+  {
+    "id": "38",
+    "title": "Digital Photo Frame",
+    "price": 79.99,
+    "brand": "Memories"
+  },
+  {
+    "id": "39",
+    "title": "USB-C Hub",
+    "price": 29.99,
+    "brand": "ConnectX"
+  },
+  {
+    "id": "40",
+    "title": "Smart Water Bottle",
+    "price": 39.99,
+    "brand": "HydroTech"
+  },
+  {
+    "id": "41",
+    "title": "Cordless Vacuum",
+    "price": 149.99,
+    "brand": "CleanSweep"
+  },
+  {
+    "id": "42",
+    "title": "Smart Garage Door Opener",
+    "price": 99.99,
+    "brand": "GaragePro"
+  },
+  {
+    "id": "43",
+    "title": "Portable Air Compressor",
+    "price": 59.99,
+    "brand": "AirPower"
+  },
+  {
+    "id": "44",
+    "title": "Electric Hair Trimmer",
+    "price": 29.99,
+    "brand": "TrimMaster"
+  },
+  {
+    "id": "45",
+    "title": "Laptop Stand",
+    "price": 49.99,
+    "brand": "WorkComfort"
+  },
+  {
+    "id": "46",
+    "title": "Smart Mirror",
+    "price": 249.99,
+    "brand": "ReflectX"
+  },
+  {
+    "id": "47",
+    "title": "Noise Cancelling Headphones",
+    "price": 199.99,
+    "brand": "QuietBeat"
+  },
+  {
+    "id": "48",
+    "title": "Electric Pressure Cooker",
+    "price": 99.99,
+    "brand": "CookPro"
+  },
+  {
+    "id": "49",
+    "title": "Gaming Headset",
+    "price": 79.99,
+    "brand": "GameSound"
+  },
+  {
+    "id": "50",
+    "title": "Smart Body Scale",
+    "price": 59.99,
+    "brand": "FitTrack"
+  },
+  {
+    "id": "51",
+    "title": "Wireless Earbuds",
+    "price": 129.99,
+    "brand": "SoundSync"
+  },
+  {
+    "id": "52",
+    "title": "VR Headset",
+    "price": 399.99,
+    "brand": "VisionGear"
+  },
+  {
+    "id": "53",
+    "title": "Fitness Band",
+    "price": 49.99,
+    "brand": "MoveTrack"
+  },
+  {
+    "id": "54",
+    "title": "3D Printer",
+    "price": 499.99,
+    "brand": "PrintPro"
+  },
+  {
+    "id": "55",
+    "title": "Smart Plug",
+    "price": 19.99,
+    "brand": "PowerSmart"
+  },
+  {
+    "id": "56",
+    "title": "LED Desk Lamp",
+    "price": 29.99,
+    "brand": "BrightLite"
+  },
+  {
+    "id": "57",
+    "title": "Gaming Chair",
+    "price": 249.99,
+    "brand": "ProGamer"
+  },
+  {
+    "id": "58",
+    "title": "Laptop Cooling Pad",
+    "price": 39.99,
+    "brand": "CoolPad"
+  },
+  {
+    "id": "59",
+    "title": "Portable Power Station",
+    "price": 199.99,
+    "brand": "EnergyMax"
+  },
+  {
+    "id": "60",
+    "title": "Smart Light Switch",
+    "price": 49.99,
+    "brand": "SwitchTech"
+  },
+  {
+    "id": "61",
+    "title": "Streaming Webcam",
+    "price": 89.99,
+    "brand": "VisionStream"
+  },
+  {
+    "id": "62",
+    "title": "Mechanical Gaming Keyboard",
+    "price": 109.99,
+    "brand": "KeyMaster"
+  },
+  {
+    "id": "63",
+    "title": "Noise Cancelling Bluetooth Headphones",
+    "price": 179.99,
+    "brand": "SilentBeats"
+  },
+  {
+    "id": "64",
+    "title": "Smart Outdoor Camera",
+    "price": 159.99,
+    "brand": "SafeYard"
+  },
+  {
+    "id": "65",
+    "title": "Smart Smoke Detector",
+    "price": 79.99,
+    "brand": "FireGuard"
+  },
+  {
+    "id": "66",
+    "title": "Portable Solar Charger",
+    "price": 59.99,
+    "brand": "SolarPower"
+  }
+]
